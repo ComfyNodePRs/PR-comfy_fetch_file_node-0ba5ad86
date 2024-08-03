@@ -12,3 +12,7 @@ Creates a fetch file node in comfy:
 
 
 This was made to make runpod setup easier. The goal is to have everything happen in the workflow
+
+
+You can place a bunch of these in your workflow so you can get all your model files loaded:
+![image](https://github.com/user-attachments/assets/f7b5b788-ded5-4d0f-8254-3f280e9bfab4)
